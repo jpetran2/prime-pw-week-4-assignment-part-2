@@ -2,7 +2,13 @@
     background-color: darkturquoise;
     color: gold;
 }
+h2 {
+    background-color: darkmagenta;
+    color: darkgrey;
 
-.h3 {
-    
+}
+
+h3 {
+    background-color: hotpink;
+    color: black;
 }
